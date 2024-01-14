@@ -47,12 +47,12 @@ function init() {
     controls.enablePan = false;
 
     const loader = new THREE.TextureLoader();
-    const textureSphereBg = loader.load('https://i.ibb.co/4gHcRZD/bg3-je3ddz.jpg');
-    const texturenucleus = loader.load('https://i.ibb.co/hcN2qXk/star-nc8wkw.jpg');
-    const textureStar = loader.load("https://i.ibb.co/ZKsdYSz/p1-g3zb2a.png");
-    const texture1 = loader.load("https://i.ibb.co/F8by6wW/p2-b3gnym.png");  
-    const texture2 = loader.load("https://i.ibb.co/yYS2yx5/p3-ttfn70.png");
-    const texture4 = loader.load("https://i.ibb.co/yWfKkHh/p4-avirap.png");
+    const textureSphereBg = loader.load('bg3.jpg');
+    const texturenucleus = loader.load('star.jpg');
+    const textureStar = loader.load("star1.png");
+    const texture1 = loader.load("star2.png");  
+    const texture2 = loader.load("star3.png");
+    const texture4 = loader.load("univ.png");
 
 
     /*  Nucleus  */   
