@@ -2,10 +2,10 @@
 
 This project creates an animation of a colorful planet floating in a cosmic scene, surrounded by stars and a swirling background.
 
-![Preview](screenshot.jpg)
-![Preview](screenshot2.jpg)
-![Preview](screenshot3.jpg)
-![Preview](screenshot4.jpg)
+![Preview](Screenshot.jpg)
+![Preview](Screenshot2.jpg)
+![Preview](Screenshot3.jpg)
+![Preview](Screenshot4.jpg)
 
 [Enjoy the cosmic journey!](https://johndev19.github.io/Space-Universe/)
 
